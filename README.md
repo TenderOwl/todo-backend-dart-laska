@@ -1,3 +1,5 @@
+![Dart](https://github.com/TenderOwl/todo-backend-dart-laska/workflows/Dart/badge.svg?branch=main)
+
 # A Todo-Backend using Laska and Dart.
 
 - What's this? See http://todobackend.com/.
