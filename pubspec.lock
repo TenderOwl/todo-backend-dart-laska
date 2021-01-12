@@ -137,9 +137,11 @@ packages:
   laska:
     dependency: "direct main"
     description:
-      path: "../laska"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "2f56acfac3e2d9321c49f0987cb45695bbb981c2"
+      url: "https://github.com/tenderowl/laska.git"
+    source: git
     version: "0.0.0"
   logging:
     dependency: transitive

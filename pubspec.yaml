@@ -9,7 +9,7 @@ environment:
 dependencies:
   mime: ^0.9.7
   laska:
-    git: git@github.com:tenderowl/laska.git
+    git: https://github.com/tenderowl/laska.git
 #  path: ^1.7.0
 
 dev_dependencies:
