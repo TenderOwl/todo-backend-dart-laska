@@ -36,6 +36,6 @@ class TodoRepository {
     final index = todos.indexWhere((element) => element.id == todo.id);
     if (index == -1) return null;
     todos[index] = todo;
-    return todos[index];
+    return todo;
   }
 }
