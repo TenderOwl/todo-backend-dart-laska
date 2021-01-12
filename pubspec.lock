@@ -139,7 +139,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "2f56acfac3e2d9321c49f0987cb45695bbb981c2"
+      resolved-ref: "9932fd6856cb4790bcbf7ba5ce283967317c38f9"
       url: "https://github.com/tenderowl/laska.git"
     source: git
     version: "0.0.0"
